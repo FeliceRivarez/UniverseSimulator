@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>images/HugeStar.png</file>
+        <file>images/icon_1.png</file>
+        <file>images/background.jpg</file>
+        <file>images/stars/star1.png</file>
+        <file>images/stars/star2.png</file>
+        <file>images/stars/star3.png</file>
+        <file>images/stars/Star6.png</file>
+        <file>images/stars/Star7.png</file>
+        <file>images/stars/Star8.png</file>
+        <file>images/stars/Star9.png</file>
+        <file>images/stars/Star10.png</file>
+        <file>images/stars/Star11.png</file>
+        <file>images/stars/Star12.png</file>
+        <file>images/stars/Star13.png</file>
+        <file>images/stars/Star14.png</file>
+        <file>images/stars/Star15.png</file>
+        <file>images/stars/Star16.png</file>
+        <file>images/stars/Star17.png</file>
+        <file>images/stars/Star18.png</file>
+        <file>images/stars/Star19.png</file>
+        <file>images/stars/Star4.png</file>
+        <file>images/stars/Star5.png</file>
+        <file>images/EmptyStar.png</file>
+        <file>images/underAttack.png</file>
+        <file>images/debugwindow.png</file>
+        <file>images/ui/garrison.jpg</file>
+        <file>images/ui/fleetbattle.jpg</file>
+        <file>images/ui/city1.jpg</file>
+        <file>images/ui/city2.jpg</file>
+        <file>images/ui/city3.jpg</file>
+        <file>images/ui/city4.jpg</file>
+        <file>images/ui/city5.jpg</file>
+        <file>images/ui/galaxy.jpg</file>
+        <file>images/ui/titlepage.jpg</file>
+    </qresource>
+</RCC>
